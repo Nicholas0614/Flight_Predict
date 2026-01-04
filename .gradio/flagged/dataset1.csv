@@ -1,0 +1,2 @@
+Month,"Day of Week (1=Mon, 7=Sun)","Departure Time (HH:MM, e.g., 14:30)",Taxi Out (minutes),Air Time (minutes),Distance (miles),output,timestamp
+6,5,14:30,15,120,500,"{""label"": null, ""confidences"": null}",2026-01-04 15:23:38.080030
